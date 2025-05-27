@@ -148,7 +148,7 @@ export default function Portfolio() {
           <div className="flex flex-col lg:flex-row items-center justify-center gap-12 max-w-7xl mx-auto">
             <div className="flex-shrink-0 animate-in zoom-in duration-1000">
               <div className="relative w-64 h-64 rounded-full overflow-hidden border-4 border-white shadow-2xl hover:scale-105 transition-transform duration-500">
-                <Image src="/wahid-photo.jpg" alt="Md. Wahid Akter" fill className="object-cover" />
+                <Image src="/wahid-photo2.jpg" alt="Md. Wahid Akter" fill className="object-cover" />
                 <div className="absolute inset-0 bg-gradient-to-br from-emerald-400/20 to-blue-400/20 hover:opacity-0 transition-opacity duration-500"></div>
               </div>
             </div>
