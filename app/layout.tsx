@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Md. Wahid Akter',
-  description: 'Created with v0',
+  description: 'Digital Marketing Expert',
   generator: 'v0.dev',
 }
 
